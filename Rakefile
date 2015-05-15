@@ -17,9 +17,9 @@ rev = %x(git rev-parse HEAD).strip
 Dir.mktmpdir do |dir|
 dir = File.join dir, 'site'
 sh 'bundle exec jekyll build'
-fail "Build failed." unless Dir.exists? destination
+fail "Build failed." unless Dir.exists? ./_site 
 sh "git clone --branch #{deploy_branch} #{repo} #{dir}"
-sh %Q(rsync -rt --del --exclude=".git" --exclude=".nojekyll" #{destination} #{dir})
+sh %Q(rsync -rt --del --exclude=".git" --exclude=".nojekyll" #{./_site} #{dir})
 Dir.chdir dir do
 # setup credentials so Travis CI can push to GitHub
 verbose false do
