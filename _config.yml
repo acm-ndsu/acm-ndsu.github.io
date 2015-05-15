@@ -7,12 +7,11 @@ defaults:
             path: "" #applies to all files in the project (not limited by path)
             type: "posts" #applied to posts only
         values:
-            layout: "posts"
+            layout: "default"
 
-    #-
-    #    scope:
-    #        path: "" 
-    #        type: "pages"
-    #    values:
-    #        layout: "project"
-    #        author: "Mr. Hyde"
+    -
+        scope:
+            path: "" 
+            type: "pages"
+        values:
+            layout: "default"

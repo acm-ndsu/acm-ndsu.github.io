@@ -1,20 +1,14 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-    <meta http-equiv="content-type" content="text/html"; charset="utf-8"/>
-    <title>{{ page.title }}</title>
-    
-    <!-- css -->
-    
-    <!-- js -->
+    {% include head.html %}
+    <body class="pure-g">
+        <div class="pure-u-1-5">
+            {% include side-pane.html %}
+        </div>
 
-</head>
-<body>
-
-{% include header.html %}
-
-{{ content }}
-
-{%include footer.html %}
-</body>
+        <div class="pure-u-4-5">
+            {{ content }}
+        </div>
+    </body>
 </html>
+

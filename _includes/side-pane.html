@@ -1,0 +1,48 @@
+<div id="side-pane" class="pure-menu">
+    <h1 class="pure-menu-heading">
+        NDSU ACM
+    </h1>
+    <hr>
+    
+    <ul class="pure-menu-list">
+        <li class="pure-menu-item">
+            <a href="/index.html" class="pure-menu-link">
+                Home
+            </a>
+        </li>
+        <hr>
+        <li class="pure-menu-item">
+            <a href="/cabinet/" class="pure-menu-link">
+                Cabinet & Constitution
+            </a>
+        </li>
+        <hr>
+        <li class="pure-menu-item">
+            <a href="/events-calendar/" class="pure-menu-link">
+                Events Calendar
+            </a>
+        </li>
+        <hr>
+        <li class="pure-menu-item">
+            <a href="/corporate-talks/" class="pure-menu-link">
+                Corporate Talks
+            </a>
+        </li>
+    </ul>
+
+    <hr>
+    <h3 class="pure-menu-heading">
+        Meeting Minutes
+    </h3>
+    <ul class="pure-menu-list">
+        {% for post in site.posts %}
+            <li class="pure-menu-item">
+                <a href="{{ post.url }}" class="pure-menu-link">
+                    <span>
+                        {{ post.date | date_to_string }}
+                    </span>
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
