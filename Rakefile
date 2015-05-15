@@ -13,13 +13,14 @@ repo = %x(git config remote.origin.url).gsub(/^git:/, 'https:').strip
 deploy_url = repo.gsub %r{https://}, "https://#{ENV['GH_TOKEN']}@"
 deploy_branch = repo.match(/github\.io\.git$/) ? 'master' : 'deploy'
 rev = %x(git rev-parse HEAD).strip
+destination = ./_site
  
 Dir.mktmpdir do |dir|
 dir = File.join dir, 'site'
 sh 'bundle exec jekyll build'
-fail "Build failed." unless Dir.exists? ./_site 
+fail "Build failed." unless Dir.exists? destination 
 sh "git clone --branch #{deploy_branch} #{repo} #{dir}"
-sh %Q(rsync -rt --del --exclude=".git" --exclude=".nojekyll" #{./_site} #{dir})
+sh %Q(rsync -rt --del --exclude=".git" --exclude=".nojekyll" #{destination} #{dir})
 Dir.chdir dir do
 # setup credentials so Travis CI can push to GitHub
 verbose false do
