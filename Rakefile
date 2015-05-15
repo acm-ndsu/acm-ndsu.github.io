@@ -13,7 +13,7 @@ repo = %x(git config remote.origin.url).gsub(/^git:/, 'https:').strip
 deploy_url = repo.gsub %r{https://}, "https://#{ENV['GH_TOKEN']}@"
 deploy_branch = repo.match(/github\.io\.git$/) ? 'master' : 'deploy'
 rev = %x(git rev-parse HEAD).strip
-destination = "./_site"
+destination = "./_deploy"
  
 Dir.mktmpdir do |dir|
 dir = File.join dir, 'site'
