@@ -12,7 +12,7 @@ deploy_url = repo.gsub %r{https://}, "https://#{ENV['GH_TOKEN']}@"
 deploy_branch = repo.match(/github\.io\.git$/) ? 'master' : 'deploy'
 rev = %x(git rev-parse HEAD).strip
  
-Dir.mktmpdir do |dir|
+Dir.tmpdir do |dir|
 dir = File.join dir, 'site'
 sh 'bundle exec jekyll build'
 fail "Build failed." unless Dir.exists? destination
