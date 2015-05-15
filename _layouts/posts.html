@@ -7,7 +7,12 @@
         </div>
 
         <div class="pure-u-4-5">
-            {{ content }}
+            <div id="content">
+                <h1>
+                    {{ post.date ||  date_to_string }}
+                <//h1>
+                {{ content }}
+            </div>
         </div>
     </body>
 </html>
