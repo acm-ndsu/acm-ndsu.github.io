@@ -7,7 +7,7 @@ defaults:
             path: "" #applies to all files in the project (not limited by path)
             type: "posts" #applied to posts only
         values:
-            layout: "default"
+            layout: "posts"
 
     -
         scope:
