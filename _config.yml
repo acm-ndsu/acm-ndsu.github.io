@@ -16,4 +16,5 @@ defaults:
         values:
             layout: "default"
 
+include: [".htaccess"]
 exclude: [vendor]

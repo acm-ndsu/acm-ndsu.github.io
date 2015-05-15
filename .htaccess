@@ -1,0 +1,18 @@
+RewriteEngine on
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^[^\.]+\.ndacm\.org$ [NC]
+RewriteRule ^(.*)$ http://ndacm.org/$1 [R=301,L]
+RewriteRule ^(.+)/$ http://%{HTTP_HOST}/$1 [R=301]
+Options -Indexes
+DirectorySlash Off
+RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /.+\.html\ HTTP
+RewriteRule ^(.+)\.html$ http://%{HTTP_HOST}/$1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^.+$ %{REQUEST_FILENAME}.html [L]
+</IfModule>
+
+
