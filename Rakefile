@@ -1,3 +1,5 @@
+require 'tmpdir'
+
 desc 'Generate deck from Travis CI and publish to GitHub Pages.'
 task :travis do
 # if this is a pull request, do a simple build of the site and stop
@@ -12,7 +14,7 @@ deploy_url = repo.gsub %r{https://}, "https://#{ENV['GH_TOKEN']}@"
 deploy_branch = repo.match(/github\.io\.git$/) ? 'master' : 'deploy'
 rev = %x(git rev-parse HEAD).strip
  
-Dir.tmpdir do |dir|
+Dir.mktmpdir do |dir|
 dir = File.join dir, 'site'
 sh 'bundle exec jekyll build'
 fail "Build failed." unless Dir.exists? destination
