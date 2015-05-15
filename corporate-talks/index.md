@@ -22,6 +22,7 @@ Fees:
 -----
 
 NDSU’s ACM charges a $200 fee.  This fee will cover pizza and pop for the corporate talk, and will be used to fund ACM activities and projects.
+Payment accepted as cash or a check made out to the NDSU ACM. Receipts provided upon request.
 
 Sign-Up and Questions:
 ----------------------
