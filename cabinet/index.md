@@ -10,7 +10,7 @@ Cabinet
 -------
 
 - Chair
-    - Jordan Goetze :: Chain@ndacm.org
+    - Jordan Goetze :: Chair@ndacm.org
 - Vice Chair
     - Rebecca Nelson :: Vice-Chair@ndacm.org
 - Treasurer
