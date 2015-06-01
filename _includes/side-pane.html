@@ -12,6 +12,12 @@
         </li>
         <hr>
         <li class="pure-menu-item">
+            <a href="/meeting-minutes/" class="pure-menu-link">
+                Meeting Minutes
+            </a>
+        </li>
+        <hr>
+        <li class="pure-menu-item">
             <a href="/cabinet/" class="pure-menu-link">
                 Cabinet & Constitution
             </a>
@@ -31,18 +37,4 @@
     </ul>
 
     <hr>
-    <h3 class="pure-menu-heading">
-        Meeting Minutes
-    </h3>
-    <ul class="pure-menu-list">
-        {% for post in site.posts %}
-            <li class="pure-menu-item">
-                <a href="{{ post.url }}" class="pure-menu-link">
-                    <span>
-                        {{ post.date | date_to_string }}
-                    </span>
-                </a>
-            </li>
-        {% endfor %}
-    </ul>
 </div>

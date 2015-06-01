@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1> 
+    Meeting Minutes
+</h1>
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">
+                <span>
+                    {{ post.date | date_to_string }}
+                </span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>
