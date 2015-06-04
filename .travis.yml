@@ -14,7 +14,7 @@ notifications:
     irc: 
         channels:
             - "chat.freenode.net#ndsuacm"
-        on_success: never
+        on_success: changed
         on_failure: always
     email:
         recipiants:
