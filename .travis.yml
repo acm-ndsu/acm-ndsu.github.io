@@ -11,4 +11,4 @@ env:
 script: bundle exec rake travis
 
 notifications:
-  irc: "chat.freenode.net#my-channel"
+  irc: "chat.freenode.net#ndsuacm"
