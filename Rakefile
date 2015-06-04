@@ -29,7 +29,7 @@ sh "git config user.email '#{ENV['GIT_EMAIL']}'"
 end
  
 sh 'git add --all'
-sh "git commit -m 'Built from #{rev}'."
+sh "git commit --allow-empty -m 'Built from #{rev}'."
 verbose false do
 sh "git push -q #{deploy_url} #{deploy_branch}"
 end
