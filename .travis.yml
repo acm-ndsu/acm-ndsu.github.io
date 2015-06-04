@@ -10,3 +10,5 @@ env:
 
 script: bundle exec rake travis
 
+notifications:
+  irc: "chat.freenode.net#my-channel"
