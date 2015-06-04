@@ -11,4 +11,13 @@ env:
 script: bundle exec rake travis
 
 notifications:
-  irc: "chat.freenode.net#ndsuacm"
+    irc: 
+        channels:
+            - "chat.freenode.net#ndsuacm"
+        on_success: never
+        on_failure: always
+    email:
+        recipiants:
+            - webmin@ndacm.org
+        on_success: always
+        on_failure: always
