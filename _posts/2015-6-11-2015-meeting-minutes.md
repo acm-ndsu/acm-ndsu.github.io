@@ -42,7 +42,7 @@ Things talked about:
 
 - Mics Reimbursement
     - Rebecca is having issues with student government
-    - everyone should start receiving checks in the mail
+    - everyone should start receiving checks in the mail from NDSU Comp Sci Department, not the ACM
 
 - Defcon
     - Kyle is still working on getting enough money to send 6 people
