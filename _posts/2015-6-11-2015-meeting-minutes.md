@@ -1,46 +1,43 @@
-                                                          
-#Things to talk about:
+Things to talk about:
+---------------------
 
 - National ACM
 - ACM Website
 - GameJam
-- MICS Reimbursements
+- Mics Reimbursement
+- Defcon
+- Bank
+- Meeting Times
 
-#Things talked about:
+Things talked about:
+--------------------
 
 - National ACM
-    - Everyone including slator is in the system
-
-- MICS Reimbursements
-    - WIP still hangups on SG side of things
-
-- Bank Cards
-    - Still haven't arrived
-    - Jordan will go talk to bank on monday if they still havent arrived
+    - Everyone is in the system 
 
 - ACM Website
-    - Plan on working on it all weekend
-    - Choose between designs
-        - [ ] [Agency](http://jekyllthemes.org/themes/agency/)
-            - [Demo](https://y7kim.github.io/agency-jekyll-theme)
-                - 
-        - [ ] [SinglePaged](http://jekyllthemes.org/themes/singlepaged/)
-            - [Demo](http://t413.com/SinglePaged)
-                - Kyle
-                    - buttons 
-                    - navigation
-                - JP
-        - [ ] [Freelancer](http://jekyllthemes.org/themes/freelancer/)
-            - [Demo](https://jeromelachaud.github.io/freelancer-theme)
-                - Philippy
-                    - Likes the buttons
-        - [ ] [Notepad](http://jekyllthemes.org/themes/hmfaysal-notepad-theme/)
-            - [Demo](http://hmfaysal.github.io/Notepad/)
+    - vote for new style
+        - Options:
+        - Agency       votes: 0
+        - Singlepaged  votes: 2
+        - Freelancer   votes: 1
+        - Notepad      votes: 0
 
-- Game Jam
-    - Theme
-        - Selected old arcade / retro
-    - Working on schedule have it done by the end of the weekend
-    - Website
-        - Gunna start working on it
-            
+- GameJam
+    - arcade style was chosen as the theme
+    - Jordan is still working on the schedule
+    - Jordan and JP will start working on the website
+
+- Mics Reimbursement
+    - Rebecca is having issues with student government
+    - everyone should start receiving checks in the mail
+
+- Defcon
+    - Kyle is still working on getting enough money to send 6 people
+
+- Bank
+    - The bank cards never showed up
+    - Jordan is going to talk with them
+
+- Meeting times
+    - 8:00 PM Central time
