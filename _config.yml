@@ -18,3 +18,6 @@ defaults:
 
 include: [".htaccess"]
 exclude: [vendor]
+
+kramdown:
+  input: GFM
