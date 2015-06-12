@@ -40,4 +40,4 @@ Things talked about:
     - Jordan is going to talk with them
 
 - Meeting times
-    - 8:00 PM Central time
+    - 8:00 PM Thursdays Central time
