@@ -1,16 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html>
     {% include head.html %}
-    <body class="pure-g">
-        <div class="pure-u-1-5">
-            {% include side-pane.html %}
-        </div>
-
-        <div class="pure-u-4-5">
-            <div id="content">
-                {{ content }}
-            </div>
-        </div>
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    {% include nav.html %}
+    {% include header.html %}
+    {% include about.html %}
+    {% include download.html %}
+    {% include contact.html %}
+    {% include map.html %}
+    {% include footer.html %}
+    {% include js.html %}
     </body>
 </html>
-
