@@ -1,23 +1,12 @@
 language: ruby
 rvm:
-    - 2.1
-
+- 2.1
 branches:
-    only:
-        - master
+  only:
+  - master
 env:
-    secure: "YkS9JVirAb+UbGkIVn5Bb0WnkmQSvbyg54TUnz8V8nOtVdz2dlpCXLlM/a8uCwqxJ4C41nv5CRqgmtOU3uo89F91ec/Whyemm3RdBFjCSNkdWBkuZNwVGwDEUwfBZ31IJh1nLP4ivBj/GJEh71/yLTSZ9DFf3H0etLNAz+JgZmMZdKk9RNcIo7S9dxwbjoAbIqTWS0H+f3pHTRJdso2W56ujtuyJe9ktIG/10xQOQl5vGKkq5L+thAX4laWVzm2Kf0YIPomUXGwm+aS/skT4Z32fEwowd2F9jntu5hf+xIg6KnZKTldBpGSbxr8OQBppfwvF2zSkt/SvnntrSwEq0qKzgh/f1Rb46BziEmb9Dpqcnenp0HnTZKzICZEuFfwmIvhA33U25jS0KixAvo+ZJaVPM2hSNC1N+DymSHCEaBofjU0ye6yAGMFJP7XUeOnJOHm+8aPj0E2WB2ODdsX8dfVYgjUJ1yjFbFU2Am55JCU8VGKdE5C3oqyTd+IAA8ysuQNR/PjzQCWIylz1DxWWv4JgAf35PFsqPhSjM6Pb7VdSHz9kLlAYW8UGOByN/6vn03Br8YWNCyGNFuiTpUxl4jb35octb+LveDwBb7A8yI4axoJiSgFUzUHYZNZaIEZIrsrs7ZlJ7XxA3Ho5/KCfP/ysB5ecRoFuilVszMJx4aw="
-
+  secure: YkS9JVirAb+UbGkIVn5Bb0WnkmQSvbyg54TUnz8V8nOtVdz2dlpCXLlM/a8uCwqxJ4C41nv5CRqgmtOU3uo89F91ec/Whyemm3RdBFjCSNkdWBkuZNwVGwDEUwfBZ31IJh1nLP4ivBj/GJEh71/yLTSZ9DFf3H0etLNAz+JgZmMZdKk9RNcIo7S9dxwbjoAbIqTWS0H+f3pHTRJdso2W56ujtuyJe9ktIG/10xQOQl5vGKkq5L+thAX4laWVzm2Kf0YIPomUXGwm+aS/skT4Z32fEwowd2F9jntu5hf+xIg6KnZKTldBpGSbxr8OQBppfwvF2zSkt/SvnntrSwEq0qKzgh/f1Rb46BziEmb9Dpqcnenp0HnTZKzICZEuFfwmIvhA33U25jS0KixAvo+ZJaVPM2hSNC1N+DymSHCEaBofjU0ye6yAGMFJP7XUeOnJOHm+8aPj0E2WB2ODdsX8dfVYgjUJ1yjFbFU2Am55JCU8VGKdE5C3oqyTd+IAA8ysuQNR/PjzQCWIylz1DxWWv4JgAf35PFsqPhSjM6Pb7VdSHz9kLlAYW8UGOByN/6vn03Br8YWNCyGNFuiTpUxl4jb35octb+LveDwBb7A8yI4axoJiSgFUzUHYZNZaIEZIrsrs7ZlJ7XxA3Ho5/KCfP/ysB5ecRoFuilVszMJx4aw=
 script: bundle exec rake travis
-
 notifications:
-    irc: 
-        channels:
-            - "chat.freenode.net#ndsuacm"
-        on_success: changed
-        on_failure: always
-    email:
-        recipiants:
-            - webmin@ndacm.org
-        on_success: always
-        on_failure: always
+  slack:
+    secure: CXEY013k4sgPL5i/VHo9oUXvHwKkmGObtJCTAOty1nbGQe2lz6/P5i7ybpiD1a8bch0iPPYnnTmQx7q9l1fZsvQnRU2Q2K5oBnIp9Ci7863GCWmwFDspwTMBy6YFx7wF/4vCzEe74IX3w6Hq/7dmsqrGBAVWQqdBPtY3JVudoK6g7SofWZ/rriDLxHtQjFzEnkF6CJY0owY/2oyQnhFWe94iGtHZ54V0javUJR347uIYI272lusn1/kcbaej1r5K8B0bQXMrN10zUGbYCTsXiK69atu74fYGUCQDkFqAm7H0oFdvzaKAWYBqzPFmNTrv/Ktuj8bR01BpSynEq++tmFzh2IrL7ibJHEIi8mm+eOY85rBAL7wniFrjIUAAY6FJcFB3mV30PhfPm0uwgnW8I9qDUpuvE3MNckDZggCpuOcHgb8/1HdIZZ9RvfvrPYYh7AV0RC6J4CXtMD+ihXFbg2QQLYW1gi8Cs2/OE93OeErkY+KjXoLNQU3ZRWxBPYqcFWwzAaWPrQ/bpC4F7kbKx13nz0KZilNRvqmd8zVGnBNxErLHZi5FVTCGRh9aBp/OFU5OmOquAsOW9hjmh/nmIcxAPofYhw5NyCBCsAtp3rypqw5cX9ccqeMpGnybv+2weSFAFf/f3m6VSO7kDZoLkz/UNySnvdMx22j55oOZ97s=
