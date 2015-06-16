@@ -61,6 +61,30 @@ a:focus {
     font-weight: 400;
 }
 
+.nav-list-container{
+    padding:0px;
+
+    background-color: #B59400;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.nav-list{
+    padding: 4px;
+}
+
+.nav-list-item{
+    margin: 4px;
+    background-color: {{ site.color.primary-dark }};
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
@@ -90,6 +114,10 @@ a:focus {
 
 .navbar-custom a {
     color: #fff;
+}
+
+.navbar-center {
+    text-align: center;
 }
 
 .navbar-custom .nav li.active {
@@ -123,7 +151,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: {{ site.color.primary-dark }};
+        background-color: #2f5627;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -138,12 +166,16 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(/img/intro-bg.jpg) no-repeat bottom center scroll;
-    background-color: {{ site.color.primary-dark }};
+    background-color: #2f5627;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.intro-logo {
+    height: 40%;
+    width: 40%;
 }
 
 .intro .intro-body {
@@ -166,7 +198,7 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 100px;
+        font-size: 40px;
     }
 
     .intro .intro-body .intro-text {
@@ -252,12 +284,11 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.space-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: {{ site.color.primary-dark }};
+    background-color: #B59400;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

@@ -1,13 +1,12 @@
 # Site settings
 title: NDSU ACM
-email: chair@ndacm.org
 url: http://ndacm.org
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#35632c'
-  links: '#219ab3'
+  primary-dark: '#45693C'
+  links: '#fff'
 
 # Footer settings
 footer: NDSU Association for Computing Machinery
