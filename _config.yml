@@ -30,3 +30,6 @@ defaults:
             layout: "posts"
 
 exclude: [vendor]
+include: [".htaccess"]
+destination: _deploy
+
