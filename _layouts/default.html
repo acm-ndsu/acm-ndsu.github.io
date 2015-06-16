@@ -1,8 +1,8 @@
-<!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    {% include nav.html %}
+---
+layout: shell
+---
+
+    {% include default-nav.html %}
     {% include header.html %}
 
     {% include about.html %}
@@ -11,15 +11,12 @@
     {% include minutes.html %}
     {% include space.html %}
 
+    {% include calendar.html %}
+    {% include space.html %}
+
     {% include more.html %}
     {% include space.html %}
 
 
-
     {% include contact.html %}
     {% include space.html %}
-
-    {% include footer.html %}
-    {% include js.html %}
-    </body>
-</html>

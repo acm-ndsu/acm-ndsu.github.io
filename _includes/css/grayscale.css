@@ -57,6 +57,14 @@ a:focus {
     color: #11505d;
 }
 
+.post{
+    text-align: left;
+}
+
+.post ul{
+    display: block;
+}
+
 .light {
     font-weight: 400;
 }
