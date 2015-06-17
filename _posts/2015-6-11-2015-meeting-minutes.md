@@ -18,22 +18,18 @@ Things talked about:
 - ACM Website
     - vote for new style
         - Options:
-            - [X] [Agency](http://jekyllthemes.org/themes/agency/)
-                - [Demo](https://y7kim.github.io/agency-jekyll-theme)
+            - [Agency](http://jekyllthemes.org/themes/agency/) ([Demo](https://y7kim.github.io/agency-jekyll-theme))
                 -   Jordan
-            - [X] [SinglePaged](http://jekyllthemes.org/themes/singlepaged/)
-                - [Demo](http://t413.com/SinglePaged)
-                    - Kyle
-                        - buttons 
-                        - navigation
-                    - JP
-                    - Rebecca
-            - [X] [Freelancer](http://jekyllthemes.org/themes/freelancer/)
-                - [Demo](https://jeromelachaud.github.io/freelancer-theme)
-                    - Philippy
-                        - Likes the buttons
-            - [ ] [Notepad](http://jekyllthemes.org/themes/hmfaysal-notepad-theme/)
-                - [Demo](http://hmfaysal.github.io/Notepad/)
+            - [SinglePaged](http://jekyllthemes.org/themes/singlepaged/) ([Demo](http://t413.com/SinglePaged))
+                - Kyle
+                    - buttons 
+                    - navigation
+                - JP
+                - Rebecca
+            - [Freelancer](http://jekyllthemes.org/themes/freelancer/) ([Demo](https://jeromelachaud.github.io/freelancer-theme))
+                - Philippy
+                    - Likes the buttons
+            - [Notepad](http://jekyllthemes.org/themes/hmfaysal-notepad-theme/) ([Demo](http://hmfaysal.github.io/Notepad/))
 
 - GameJam
     - arcade style was chosen as the theme
