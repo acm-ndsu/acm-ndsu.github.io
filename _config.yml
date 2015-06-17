@@ -28,6 +28,25 @@ defaults:
             type: "posts"
         values:
             layout: "posts"
+    -
+        scope:
+            path: "corp-talks"
+            type: "pages"
+        values:
+            layout: "pages"
+    -
+        scope:
+            path: "cabinet"
+            type: "pages"
+        values:
+            layout: "pages"
+    -
+        scope:
+            path: "constitution"
+            type: "pages"
+        values:
+            layout: "pages"
+
 
 exclude: [vendor]
 include: [".htaccess"]

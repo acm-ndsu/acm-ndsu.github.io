@@ -57,6 +57,14 @@ a:focus {
     color: #11505d;
 }
 
+.center {
+    text-align: center;
+}
+
+.cabinet{
+    text-align: center;
+}
+
 .post{
     text-align: left;
 }
