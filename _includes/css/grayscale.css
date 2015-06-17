@@ -332,6 +332,10 @@ a:focus {
     padding: 15px;
 }
 
+.page-section{
+    padding: 30px;
+}
+
 .title-section{
     margin-top: 25px;
 }

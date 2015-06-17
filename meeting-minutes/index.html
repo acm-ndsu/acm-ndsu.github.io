@@ -1,18 +1,16 @@
 ---
-layout: default
+title: Meeting Minutes
 ---
-
-<h1> 
-    Meeting Minutes
-</h1>
-<ul>
-    {% for post in site.posts %}
-        <li>
-            <a href="{{ post.url }}">
-                <span>
-                    {{ post.date | date_to_string }}
-                </span>
-            </a>
-        </li>
-    {% endfor %}
-</ul>
+<div class="nav-list-container">
+    <ul class="nav nav-list">
+        {% for post in site.posts %}
+            <li>
+                <a class="nav-list-item" href="{{ post.url }}">
+                    <span>
+                        {{ post.date | date_to_string }}
+                    </span>
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
