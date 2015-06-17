@@ -46,7 +46,12 @@ defaults:
             type: "pages"
         values:
             layout: "pages"
-
+    -
+        scope:
+            path: "meeting-minutes"
+            type: "pages"
+        values:
+            layout: "pages"
 
 exclude: [vendor]
 include: [".htaccess"]
