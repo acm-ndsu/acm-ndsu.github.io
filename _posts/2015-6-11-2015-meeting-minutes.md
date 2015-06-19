@@ -22,9 +22,10 @@ Things talked about:
                 -   Jordan
             - [SinglePaged](http://jekyllthemes.org/themes/singlepaged/) ([Demo](http://t413.com/SinglePaged))
                 - Kyle
-                    - buttons 
-                    - navigation
+                    - Likes the buttons
+                    - Likes the navigation
                 - JP
+                    - Likes the navigation
                 - Rebecca
             - [Freelancer](http://jekyllthemes.org/themes/freelancer/) ([Demo](https://jeromelachaud.github.io/freelancer-theme))
                 - Philippy
