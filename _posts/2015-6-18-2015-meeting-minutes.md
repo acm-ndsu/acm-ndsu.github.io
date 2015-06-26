@@ -10,7 +10,6 @@ Things to talk about:
 Things talked about:
 --------------------
 
-
 - ACM Website
     - Jordan addressed some of the issue that were said on the forums
     - Kyle and JP like it, Rebecca doesn't like it
