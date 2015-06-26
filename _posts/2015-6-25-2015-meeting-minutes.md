@@ -20,4 +20,4 @@ Things talked about:
 
 - Mics Reimbursement
     - Jordan still has to go talk to student government
-    - Jordan needs to pick it up from the CS department
+    - Jordan needs to pick up check from the CS department
