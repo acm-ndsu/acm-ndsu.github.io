@@ -13,4 +13,4 @@ Things talked about:
 
 - GameJam
     - Will now be refered to as Retro Jam
-    - phaze one is due soon so everyone working on it should make a status report on github
+    - phase one is due soon so everyone working on it should make a status report on github
