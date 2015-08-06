@@ -1,0 +1,12 @@
+<span style="font-family: Century Schoolbook,serif;"><span style="font-size: small;">7:30 pm in IACC 162</span></span>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;"> </span></p>
+<p style="margin-left: 0.5in; text-indent: -0.5in; margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;"><strong>Items on the proposed agenda for this meeting include</strong></span><span style="font-family: Century Schoolbook,serif;">:</span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;">1) </span><span style="font-family: Century Schoolbook,serif;"><span style="text-decoration: underline;">Additions to the proposed agenda:</span></span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;">2) </span><span style="font-family: Century Schoolbook,serif;"><span style="text-decoration: underline;">Unfinished business</span></span><span style="font-family: Century Schoolbook,serif;">:</span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;">3) </span><span style="font-family: Century Schoolbook,serif;"><span style="text-decoration: underline;">New Business</span></span><span style="font-family: Century Schoolbook,serif;">:</span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;"> A)  UIUC Reflections | Projections Conference</span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;"> B)  Extended Cabinet Positions</span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;"> C)  Special Interest Groups (SIGs)</span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;">4) </span><span style="font-family: Century Schoolbook,serif;"><span style="text-decoration: underline;">Reports off the Floor</span></span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><span style="font-family: Century Schoolbook,serif;">5) </span><span style="font-family: Century Schoolbook,serif;"><span style="text-decoration: underline;">Adjourn, if possible, by 9:00 pm.</span></span></p>
+<p style="margin-bottom: 0in; widows: 0; orphans: 0;"><a href="http://www.acm.ndsu.nodak.edu/wp-content/uploads/2008/09/gm-2008-09-12.odt">gm-2008-09-12.odt</a></p>

@@ -1,0 +1,4 @@
+-Microsoft have planned to have a "Resume building and interview workshop" on the 18th, and then an info session on the 19th. All of this will be followed by Fast Enterprises on the 20th, and a LAN party on the 21. This is going to be a crazy week.
+-Zech has worked in a business card design and it looks really good. The EC will help to finish it and we will get them printed ASAP.
+-Justin should go soon to sign up the ACM in the Org Fair.
+-The bowling event will be moved back from the 12 of October to the 10th.

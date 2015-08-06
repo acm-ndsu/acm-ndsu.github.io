@@ -1,0 +1,8 @@
+-We have two options for email address, @cs.ndsu.edu or @ndacm. The option decided is @cs.ndsu.edu because gives support for  
+-An account will be set up for general-purpose contact information. 
+-Maybe some accounts will be set up for each EC member.
+-Robert can provide us with some P4s.
+-The accounts are set up in the servers.
+-We need to collect the pictures taken and place them in the ACM dropbox.
+-The corporate talk from Fast Enterprises is going to be close to the Microsoft talk.
+-We will also be having a corporate event with Appareo on October 23rd at 5:00 p.m.

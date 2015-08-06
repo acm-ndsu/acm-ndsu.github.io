@@ -1,0 +1,1 @@
+<pre>[google-calendar-events id="1" type="list-grouped" title="Events on" max="5" order="asc"]</pre>

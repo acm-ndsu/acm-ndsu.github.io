@@ -1,0 +1,1 @@
+We have scheduled our first corporate talk of the year with Fast Enterprises, for September 23rd at 7:00pm. Stay tuned for a location for the talk, and don't forget to freshen up your resumes.

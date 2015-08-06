@@ -1,0 +1,5 @@
+-Justin and Zech will meet on Monday to finish the business card design.
+-The web and mail servers are down. Zech will take care of this.
+-The resume workshop scheduled for September 18th wont be happening because of a recommendation of Career Service. The General Information talk of September 19th is still happening. Microsoft is willing to buy pizza and pop for another event(Random LAN party, Halloween LAN Party or other).
+- The EC will be going the classes to talk with the students and promote the ACM. This will be on August 23rd, 24th, 30th and 31st. We still need to get in contact with the professors to make sure everyone is ok with this.
+- During the time of the OrgFair, ice cream will be provided in the ACM office. We need to inform students and CS faculty and staff too.

@@ -1,0 +1,1 @@
+<a href="http://www.acm.ndsu.nodak.edu/wp-content/uploads/2008/08/welcome-week-poster.png"><img class="alignnone size-medium wp-image-12" title="2008 welcome week" src="http://www.acm.ndsu.nodak.edu/wp-content/uploads/2008/08/welcome-week-poster-300x240.png" alt="" width="300" height="240" /></a>
