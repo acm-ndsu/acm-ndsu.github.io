@@ -13,5 +13,3 @@ The ACM Executive Council will be meeting July 12 in the ACM Office at 1:00pm. Y
 3.  New website
 4.  Web space pricing
 5.  Appointment of Corporate Liaison
-
-[Agenda: 2008-07-12](http://www.acm.ndsu.nodak.edu/wp-content/uploads/2008/07/2008-07-12.doc)
