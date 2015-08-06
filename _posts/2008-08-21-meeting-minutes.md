@@ -1,4 +1,4 @@
-<!--StartFragment --><strong>Note: this is a Bismarck company, but the internship is in Fargo.</strong>
+<strong>Note: this is a Bismarck company, but the internship is in Fargo.</strong>
 
 <strong>From:</strong> Robert Pope [mailto:rpope@nexusinnovations.com]
 <strong>Sent:</strong> Friday, August 15, 2008 3:17 PM
