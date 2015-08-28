@@ -50,7 +50,7 @@ Things talked about:
    - Jordan will figure out a full list of classes and email to JP later
 
 - Kickoff Meeting
-   - will be held at 6:30 p.m. september 10th
+   - will be held at 6:30 p.m. september 3th
    - Josh will order pizza
    - normal cloths
    - people will need to make sig slides for the Kickoff meeting
