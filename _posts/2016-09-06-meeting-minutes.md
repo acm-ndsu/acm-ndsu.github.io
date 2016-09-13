@@ -1,85 +1,91 @@
-## things to talk about ## 
+## Things to talk about ##
 
-EC Meeting trophies
-kickoff meeting
-budget
-mechmania
-smash tournament
-fast corp talk sep 27th
-corp talk "recruiting"/advertising
-poster sponsorship
+suggestion box
+budgetmechmania
+fast corp talk sept 27th
+talk with dean
+	- maverick software corp talk
+	- getting in contact with corps
+cs breakfast
+starting SIGS
+Digikey
+Large group meeting
+Org meeting
 
 
 ## Things we talked about ##
 
-Suggestions
-	- We might make the table by the couches look nicer if we can
-	- board game night and lan parties are tabled for next week
-		- we intend to do these, right now we are to busy
+suggestion box
+	- lan party
+		- tabled till after mechmania
+	- game night
+		- ec cant commit right now
+	- request for coke (pop) and forks
 
-kickoff meeting
-	- matt is looking into the best price for pizza
-	- Pizza type distrabution (assuming we have 20 pizzas)
-		- 2 cheese
-		- 2 mushroom
-		- 8 pepperoni
-		- 4 sausage
-		- 4 bacon
-
-		1/5 veg
-		2/5 pepperoni 
-		2/5 other meat
-
-		Other food notes
-		12-13 2-liters of pop
-		we need larges, we should have them arrive at 6:50
-
-		Request napkins, utensils, plates
-
-	- the powerpoint
-		Jordan will have the powerpoint open tommarow so each sig leader can make a page
-	- printing 
-		kyle will use his printing balence for sig interest sheets
+budget
+	- official meeting tommarow at 5:50
+	- nate has not talked to slater about finances
+	- the dean wants to talk about the budget
+		- we probably dont have money
+	- the events we are going to
+		- mechmania
+		- MICS
+		- minne Hack
+		- digi-key (21th of Oct)
+		- Arch Hack
+		- reflections projections
 
 
+mechmania
+	- money due tuesday (sept 19th)
+	things that need to be done by next week
+		- jordan will look into the van
+		- rebekah will look into getting 3 hotels
+			- we need hotels 
 
-Budget
-	- we currently have $823 in the bank
-	- no progress on the budget
-	- we are now in code yellow for money. we need to get this working
-		- nate will talk to slater
-
-mechmania 
-	- last year travel costed about $900
-	- we will try and get a van
-	- we wil bring a maximum of 15 people
-	- evo caffe is an option, but we may not go there for the group meal
-	- $175. hopefully we can reimburse
-
-CSO large group meeting tommarow at 5 pm
-	- jodran will go to it
-
-smash tournament
-	- DU will handle the contact booth and res halls
-	- Smash club will provide setups and organize the tournament
-	- a few of us will be there to help 
-		
-Fast corp talk is on the 27th
-	- its happening
-	- 
-CS breakfast
-	- sept28th 9am 
-	- we have a few people who will come
+fast corp talk
+	- sep 27th
+	- 2 weeks away
 
 
-Poster Sponsorship
-	- asking companies if they want to pay us to have a poster in the ACM room. 
-	- we will ask $50 
+talk with the dean
+	- we probably wont have a corp talk with maverick, at least imediatly
+	- the dean sent us a company to do a corp talk
+	- maverick is sponsoring the job fair cs breakfast
 
+
+cs breakfast 
+	- ec and jacob seem to be going
+ 		- nate might come
+
+starting sigs
+	- time availiable due next week
+
+digikey
+	- we get 2 teams of 4
+	- entry deadline is 3:00 sept 30
+
+large group meeting
+	- event on food technically requires food insurence
+	- everyone going to an event needs to fill out a liability consent form
+
+
+org hosting
+	- increase cost of hosting to $50
+
+	
+corp talks
+	- we need to advertise them better
+	- fast email before this friday and one the day of
 
 ## Tabled for next week ##
 mechmania group meal location
-budget
 board game night and lan party
 increasing cost of corp talks
 	- we dont make much at all after pizza
+
+
+	
+
+		
+
