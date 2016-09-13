@@ -1,17 +1,25 @@
 ## Things to talk about ##
 
 suggestion box
+
 budgetmechmania
+
 fast corp talk sept 27th
+
 talk with dean
+
 	- maverick software corp talk
 	
 	- getting in contact with corps
 	
 cs breakfast
+
 starting SIGS
+
 Digikey
+
 Large group meeting
+
 Org meeting
 
 
@@ -107,8 +115,11 @@ corp talks
 
 ## Tabled for next week ##
 mechmania group meal location
+
 board game night and lan party
+
 increasing cost of corp talks
+
 	- we dont make much at all after pizza
 
 
