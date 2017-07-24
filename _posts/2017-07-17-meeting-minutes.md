@@ -1,7 +1,7 @@
 # What We're Going Over:
 - Appareo Talk
 
-#What We Went Over:  
+# What We Went Over:  
  - Kickoff Meeting:
      - August 30th at 7 PM
 
@@ -29,7 +29,7 @@
 - Bank Account - $356.17
     - Matt St. Martin still needs check
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Appareo conversations continue
 
 # Next Meeting:
