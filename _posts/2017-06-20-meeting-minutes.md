@@ -1,4 +1,4 @@
-#What We Went Over:  
+# What We Went Over:  
 
 - Student Government
     - Sent email to them
