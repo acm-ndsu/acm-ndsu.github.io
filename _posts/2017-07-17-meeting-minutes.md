@@ -32,6 +32,6 @@
 #To Accomplish By Next Meeting:  
 - Appareo conversations continue
 
-#Next Meeting:
+# Next Meeting:
  - 
  - 
