@@ -1,0 +1,113 @@
+# What We're Going Over:
+- Byte-le Royale Reflection
+
+#What We Went Over:  
+
+- Money
+    - Come in or out cleared?
+    - Plates put on it
+    - Computers lined up in specs, order them recently
+
+- Byte-le Royale
+    - Reflection
+        - 36 people
+        - Well:  
+            - Updates
+                - Communication during event was good
+                - Planning went well
+                - When needed, they rolled out well
+            - Art style
+                - People liked Smoking Stone and Business Minotaur
+                - Visualizer well liked (built from scratch)
+            - Design Elements
+                - Pikeman did what we wanted to it
+                - Updates were necessary for the game, and helped it
+                - Variety of traps to go against and monsters to fight
+                - If you noticed all the small things, it added up
+                - Forced to reference documentation versus forming algorithms
+            - Communication:
+                - Issues and bringing up Qs and As
+                - Bugs fixed when needed
+                - Documentation went well and laid out good
+            - Sign-ins
+                - went swimmingly
+                - Location
+            - Spreading out for EC members
+                - Kept in a spot for people to see and talk
+                - Many questions were answered from all
+                - PyCharm session was helpful
+            - Python choice
+                - new language for people to use
+                - easy to config or teach
+                - good installer
+            - FOOD TICKETS
+                - 2/3 of people purchased
+                - near perfect spending
+                - great distribution when it happened
+                - Goodie bags supplied for as long as people kept them (good value out of them too!)  
+
+        - Meh:
+            - Room Usage by Outsiders
+                - One room was inhabited by someone, so food had to be separate room
+            - Python installations
+                - few outliers that postponed others from updates
+                - MAC users may require additional support earlier 
+            - Where people would be
+                - Try to get more centralized at 116, 114, and 132
+                - Otherwise, let people know where the EC members would regularly be for most of the time
+
+        - Could be better:
+            - Meta adjustments
+                - Updates came late and errors or other weird bits coming in after a few hours
+            - Team setup
+                - Know who is on what team
+                - Ease of adding future clients
+            - Usage of ACM and assets
+                - Meant to be staging area but potential non-event organizers in area caused lack for discussion
+                - Don't do something for a single person unless EVERYONE can utilize the space and assets equally
+            - TA Office usage
+                - Try to keep it for a designated nap room or other public area (door MUST be open, keep quiet around the area)
+            - Forum
+                - max people on at once was about 1/4 of total competitors
+                - Try and push people to check all communication channels
+                - Find a potential better use than PHPBB
+            - People knowing about updates
+                - Try as we would, people wouldn't know about the updates
+                - Have people pull regularly in the future?
+            - Rules?
+                - For a first event, went well, BUT ensure any gray questions are asked
+            - Answering Questions:
+                - Make sure people write documentation to know what goes on in-game
+                - Clarify what is meant to be and what could happen
+                - Let others know the answers beforehand
+                - Go over (with a potential other non-competitor) the documentation and see what they see is wrong
+            - Some traps:
+                - Puzzle Box (Murder box) and the Sphinx (slooowdown) 
+                - Intent wasn't what was shown
+                - Early enough to cause lasting effect
+                - Make sure each update has 2 people verifying the effect and that it works as intended  
+
+        - New Ideas:
+            - Stream visualizers so people can view without going into separate room?
+                - needs of more computers to do it
+                - more complexity
+            - Staging server for testing
+                - Test updates before pushing to everyone
+                - Ensure variation from 
+            - More fundraising options for Byte-le Royale
+                - from corporate sponsorships?
+                - from other people or outsiders?
+- Transfer the lesson from this year to next year
+    - Those who come after will have their ideas of what went well vs what could improve
+    - Keep the ideas of old and 
+- Bank Account - $264.28
+
+- Other:
+    - Budget Meeting:
+        - How much 
+    - Food
+        - CAN RESTOCK NOW!!!!
+
+#Next Meeting:
+- Start election chunk [mark board for it]
+- Determine election date
