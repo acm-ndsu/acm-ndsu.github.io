@@ -2,8 +2,9 @@
 - Kickoff meeting
 - Student Involvement Expo
 - 213 Speakers
-- Mechmania
-#What We Went Over:  
+- Mechmania  
+
+# What We Went Over:  
 
 - Kickoff meeting
     - 10:30 Start prep
@@ -30,7 +31,7 @@
     - Hotel
         - 3 rooms, 2 nights
         - Thursday night, Saturday night
-        - $60 per person lodging ($30 Hotel night1, 
+        - $60 per person lodging ($30 Hotel night 1, 
         - Comfort Econo
     - $120 per person    
 
@@ -44,6 +45,6 @@
 - 213 Speakers
     - minimal brochures
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - email comp sci about kickoff meeting
 - interest cards

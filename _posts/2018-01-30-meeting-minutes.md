@@ -3,10 +3,7 @@
 - Money
 - Corporate Talk  
 
-#What We Went Over:  
-
-- SIGs
-    - 
+# What We Went Over:  
 
 - Money
     - Computers
@@ -36,10 +33,3 @@
         - $300 for monitors
 
 - Bank Account - $332.67 
-
-- Corporate Talk:
-    - 
-
-#To Accomplish By Next Meeting:  
-- d
-- f

@@ -2,7 +2,7 @@
 - Appareo
 - Poster rate
 
-#What We Went Over:  
+# What We Went Over:  
 
 - Appareo Email
     - Look into pricing and potential change in price
@@ -18,7 +18,7 @@
     - large swathes of wallspace for posters
     - Rules:
         - MUST be computer science related & be covered by NDSU Policies
-            - maybe small corner of non-CS but for upped price (%25 increase for all non-CS topics)
+            - maybe small corner of non-CS but for upped price (25% increase for all non-CS topics)
         - Poster size can determine location
     - Pricing per size:
         - Potential markup for certain topics (anime)
@@ -39,20 +39,17 @@
         - Logo on website $15 for semester $25 per year
             - Between 'More Information; and 'Calendar'
 
- - TV Stand
+- TV Stand
      - potential sleep mode showcase sponsors / posters?
 
- - SIG-Comp+Linux name:
+- SIG-Comp+Linux name:
      - Sig-Learn lean towards
 
- - Mech-"Mini"a Discussion
+- Mech-"Mini"a Discussion
      - Jordan has socket server stuff
      - Add more ideas
      - NO NEGATIVE FEEDBACK on ideas
 
-
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - More ideas for Mech-"Mini"a
 - Reserve QBB104
-
-#Next Meeting:

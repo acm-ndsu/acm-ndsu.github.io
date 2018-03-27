@@ -2,7 +2,7 @@
 - Org Fair
 - Kickoff
 
-#What We Went Over:  
+# What We Went Over:  
 
 - Org Fair
     - Wednesday, January 17
@@ -17,8 +17,8 @@
         - New computer specs
         - New sound system
     - Forms
-   	 - Modify sign-up forms and print for this semester
-   	 - Will need more SIG sign-up and competitions
+        - Modify sign-up forms and print for this semester
+        - Will need more SIG sign-up and competitions
 
  - LAN Party
      - day after kickoff meeting
@@ -51,7 +51,3 @@
 - Construct flyers for the classes
 - Schedule kickoff meeting room reservation
 - Email professors for speaking 
-
-#Next Meeting:
-- f
-- t

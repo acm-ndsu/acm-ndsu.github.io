@@ -2,7 +2,7 @@
 - EC Elections
 - MICS
 
-#What We Went Over:  
+# What We Went Over:  
 
 - Compopers
     - Nick has sent information to Nygard pertaining them
@@ -37,7 +37,7 @@
 
 - Other:
 
-#By Next meeting:
+# By Next meeting:
 - Clarify some points with Denton
 - Begin spreading word for MICS, hotel booking?  
 - MICS and Elections on board

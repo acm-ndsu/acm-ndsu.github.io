@@ -1,7 +1,8 @@
 # What We're Going Over:
 - MinneHack
-- The Money
-#What We Went Over:  
+- The Money  
+  
+# What We Went Over:  
 
 - MinneHack
     - 'invited' for better representation from this area
@@ -57,9 +58,5 @@
         - Goldfish 1, Gummy [snacks] 1, Post X-mas candy 
         - Will be up another week
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Send Email about Minnehack
-
-#Next Meeting:
-- f
-- t

@@ -1,21 +1,21 @@
-# What We're Going Over:
+# What We're Going Over:  
 - Meeting Times
 - Poster Rates
 - Appareo Email
 - Involvement Expo
 - MechMania
 
-#What We Went Over:  
+# What We Went Over:  
 
 - Poster Rates
     - Charge by 8in x 8in. 
     - Corporate $8 per 8”x8” 
     - Alumni or student $4 per 8”x8”
-    - We can charge officemax rates for pricing if we print the poster for alumni
+    - We can charge OfficeMax rates for pricing if we print the poster for alumni
     - Additional 25% charge for non computer science topic - we are judge
-    - 24 x 36 is $81 for the year
+    - 24 x 36 is $81 for the year  
 
-- Bank Account - $258.45
+- Bank Account - $258.45  
 
 - Meeting Times
      - Doodle was sent for times
@@ -41,9 +41,9 @@
         - Group meal could be questionable
         - Van vs Drive personal cars
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Make flyer outline
 - Check receipts for past experiences
 
-#Next Meeting:
+# Next Meeting:
 - MechMania info

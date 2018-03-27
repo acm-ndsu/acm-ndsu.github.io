@@ -3,7 +3,7 @@
 - Educational Talk
 - Nate's Key
 - Domain Expired
-#What We Went Over:  
+# What We Went Over:  
 
 - MICS
     - Refunds to be distributed
@@ -12,8 +12,8 @@
     - Transfer it on Thursday, April 13 at 1:00 PM, US Bank
     - Bring License, know or bring your Social Security card
     - Get bank account transferred to new EC (Jordan, Matt, or Rebecca goes to help the transfer)
-   	 - These people going off: Matt, Nate, & Rebecca Nelson
-   	 - These people going on as owners on account: Riley Conlin, Jacob Baumann, & Nick Hilger
+    - These people going off: Matt, Nate, & Rebecca Nelson
+    - These people going on as owners on account: Riley Conlin, Jacob Baumann, & Nick Hilger
 
 - Nate's Key
     - Still waiting for him
@@ -36,7 +36,7 @@
         - Determine MICS vs ACM money before
         - $216 roughly for snacks and Picnic
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Get Nate's Key
 - Pay Amanda MechMania reimbursement
 - Transfer Bank Ownership
@@ -44,6 +44,6 @@
 - Email about Talk and Picnic w/ LAN party following
 - Discuss more with educational talker
 
-#Next Meeting:
+# Next Meeting:
 - Put up information for educational talk, picnic, and LAN party
 - Discuss food for the picnic

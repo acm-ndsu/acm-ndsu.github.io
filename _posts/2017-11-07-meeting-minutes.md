@@ -1,7 +1,7 @@
 # What We're Going Over:
 - DigiKey Talk
 
-#What We Went Over:  
+# What We Went Over:  
 
 - DigiKey Talk
     - Today, November 7, 7:00 PM QBB 104
@@ -15,6 +15,6 @@
         - $30-$40
     - Poll for next week:   
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Determine if we need more cups
 - Email facilities about hanging a TV stand in the wall and how to get it done

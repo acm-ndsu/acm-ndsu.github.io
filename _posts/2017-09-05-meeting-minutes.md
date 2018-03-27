@@ -1,7 +1,8 @@
-## What We're Going Over:
+# What We're Going Over:
 - MechMania  
-- Other
-## What We Went Over:  
+- Other  
+
+# What We Went Over:  
 
 - MechMania
     - Van
@@ -22,7 +23,7 @@
     - Create surveys
     - Ensure they don't clash
 
-## To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Email about MechMania (summary of what's going on)
     - Date, sign-up available, price, teams of 3, 15 total, first-come first-serve
     - If you don't pay and write name up, it can be superseded.

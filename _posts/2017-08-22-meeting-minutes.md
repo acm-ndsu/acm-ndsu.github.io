@@ -7,8 +7,9 @@
 - Talk to Classes
 - Future Meetings
 - Food Wall
-- Other
-#What We Went Over:  
+- Other  
+
+# What We Went Over:  
 
 - Kickoff Meeting
     - PowerPoint
@@ -22,7 +23,7 @@
 
 - LAN Party
     - Camera for pics
-    - Bring Exernal Hard Drive for future game storage
+    - Bring External Hard Drive for future game storage
 
 - Involvement Expo
     - Wednesday August 30th; 11 AM to 3 PM with setup and teardown
@@ -30,7 +31,7 @@
     - Brochure Update
         - from tri-fold to single-page
     - Man the Booths:
-        - 
+        - Decided on board
     - ACM Room at the time:
         - N/A due to Freezy-Pops available
 
@@ -60,6 +61,6 @@
         - 1 week after the kickoff meeting (September 8th)
         - If not by then, forfeit reimbursement
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Update brochure, PowerPoint
 - Print forms and brochures
