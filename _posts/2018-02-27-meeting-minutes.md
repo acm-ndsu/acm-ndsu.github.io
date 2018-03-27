@@ -1,7 +1,7 @@
 # What We're Going Over:
 - MICS
 
-#What We Went Over:  
+# What We Went Over:  
 
 - MICS
     - Department will entirely cover travel (van rentals and gas)
@@ -22,7 +22,7 @@
 
 - Other:
 
-#By Next meeting:
+# By Next meeting:
 - Get numbers clarified from faculty
 
-#Next Meeting:
+# Next Meeting:

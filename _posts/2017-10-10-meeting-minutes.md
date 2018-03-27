@@ -3,7 +3,7 @@
 - DigiKey
 - ICPC
 
-#What We Went Over:  
+# What We Went Over:  
 
 - MechMania
     - Reimbursements
@@ -30,8 +30,8 @@
  - Sam's Club
      - Membership
      - $40 membership fee
-     - Riley or Jordan will renew membership
- 
+     - Riley or Jordan will renew membership  
+
 - Bank Account - $379.79
 
 - Other:
@@ -45,7 +45,7 @@
         - Bring your own food
             - Try not to overlap foods
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - DigiKey
 - Send email on Halloween Party
-- List on board of foods brought to 
+- List on board of foods brought to party

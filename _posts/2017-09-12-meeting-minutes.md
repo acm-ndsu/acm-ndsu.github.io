@@ -3,7 +3,7 @@
 - Digikey
 - ICPC  
 
-#What We Went Over:  
+# What We Went Over:  
 
 - MechMania
     - Van date (rental in by Thursday)
@@ -26,14 +26,14 @@
 - ICPC  
 
 - SIGs
-  -GDev
+    - GDev
 - Other
     - Food & Drink
         - $150 at MAX
     - CH Robinson email
         
      
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Send email for MechMania saying 1 more slot, teams not solidified till departure, WILLING TO PAY WHEN SIGNING UP, Due Tuesday 19th, Wednesday permission form, stop by Thursday, verify paid membership, overflow will be 
-- send email to Eric and Nate about money by 18t
+- send email to Eric and Nate about money by 18th
 - Send Sig-Dev

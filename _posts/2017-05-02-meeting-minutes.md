@@ -1,7 +1,7 @@
 # What We're Going Over:
 - MICS Reimbursement
 - Wall of Debt
--New Computer
+- New Computer
 
 #What We Went Over:  
 
@@ -28,12 +28,8 @@
          - Raspberry Pi setup
 
  - Arcade Machine
-     - Switch to Rockcandy XBox 360 wired controllers ($15)
-     - 
+     - Switch to Rockcandy XBox 360 wired controllers ($15)  
+
 #To Accomplish By Next Meeting:  
 - Tuck cords away before the summer 
 - National Membership for EC
-
-#Next Meeting:
- - 
- - 

@@ -3,9 +3,8 @@
 - Advertisements
 - Budget Meeting
 - Jordan's Rent  
-  
 
-#What We Went Over:  
+# What We Went Over:  
 
 - Kickoff Meeting
     - Powerpoint
@@ -21,8 +20,7 @@
 
 - Advertisements
     - talks
-    - fair
-   	 - 2nd Controller for arcade machine
+    - fair / 2nd Controller for arcade machine
 
 - Budget Meeting
     -   budget
@@ -39,12 +37,12 @@
     - New Chairs
         - 2 wheely chairs, plus folding one 
     - New sound system
-        - Surround speakers 
+        - Surround speakers   
 
 - Bank Account - $185.25
 
 - Other:
     - money for snack?
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - kickoff meeting

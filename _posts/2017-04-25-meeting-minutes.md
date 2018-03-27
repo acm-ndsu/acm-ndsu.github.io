@@ -3,7 +3,7 @@
 - Nate's Key  
 - Wall of Debt
 
-#What We Went Over:  
+# What We Went Over:  
 
  - Wall of Debt
      - Alert wall of debters to either go up to $5, or to claim their remaining funds from it
@@ -25,11 +25,7 @@
 - TV Stand
     - Low priority, could end up as summer project
  
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Get Nate's Key
 - Stand (lower priority)
 - Tuck cords away before the summer 
-
-#Next Meeting:
- - 
- - 

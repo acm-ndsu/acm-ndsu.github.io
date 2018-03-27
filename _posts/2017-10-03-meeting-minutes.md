@@ -3,8 +3,7 @@
 - DigiKey
 - Table
 
-
-#What We Went Over:  
+# What We Went Over:  
 
 - MechMania
     - Reflection
@@ -51,7 +50,7 @@
         - Do them all in one weekend?
         - Talk to Engineering dept on it?
     - Jordan is in charge of table fixing
-        - sub-comittee: Nick, Ajay, Riley, and Jordan
+        - subcommittee: Nick, Ajay, Riley, and Jordan
     - No more than $100 on table
     - Spray paint stencils?
 
@@ -62,6 +61,6 @@
         - 24 hours, Oct 14-15, 
     - Symphony of the Night now on RecallBox
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Talk to StuGov for reimbursement
 - DigiKey travel forms

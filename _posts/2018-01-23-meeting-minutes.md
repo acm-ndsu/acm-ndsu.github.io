@@ -2,7 +2,8 @@
 - Reimbursements
 - SIG Stuff
 - Byte-le
-#What We Went Over:  
+  
+# What We Went Over:  
 
 - Reimbursements
     - Nick will begin filing process
@@ -38,10 +39,10 @@
     - Poster/board
     - Prize
     - Room Reservation
-   	 - 2.5 weeks until we start
-   	 - Security form as well
-   	 - Rooms for full time (12 PM Saturday to 2 PM Sunday)
-   	 - 104, 114,116,132
+        - 2.5 weeks until we start
+        - Security form as well
+        - Rooms for full time (12 PM Saturday to 2 PM Sunday)
+        - 104, 114,116,132
 
 - Bank Account - $32.67
 
@@ -49,5 +50,5 @@
     - Polf results
         - 6 Discord, 2 Whiteboard
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Send out SIG meeting schedules

@@ -1,7 +1,7 @@
 # What We're Going Over:
 - Byte-le Royale Reflection
 
-#What We Went Over:  
+# What We Went Over:  
 
 - Money
     - Come in or out cleared?
@@ -108,6 +108,6 @@
     - Food
         - CAN RESTOCK NOW!!!!
 
-#Next Meeting:
+# Next Meeting:
 - Start election chunk [mark board for it]
 - Determine election date

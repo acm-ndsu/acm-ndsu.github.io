@@ -1,7 +1,8 @@
 # What We're Going Over:
 - MechMania
-- DigiKey
-#What We Went Over:  
+- DigiKey  
+
+# What We Went Over:  
 
 - MechMania
     - Must be chaperoned by EC member outside of the UIUC CS building
@@ -42,7 +43,7 @@
         -  Student Government reimbursed?
     - 14 payments of $120: $1680 paid in for MechMania ($120 more tbd)
     - Hotel payments: $296.76 + $429.36
-    - Van payment:$445? - $550? (use 550 to be safe)
+    - Van payment: $445? - $550? (use 550 to be safe)
     - Current: $403.88
     - Expected gas payment: $200 (Jordan pays, reimbursed)
     - Current: $203.88 funding undedicated
@@ -52,10 +53,10 @@
     - Factoring in MechMania spending as of yet: $398.98
     - Cash after snacks: $60
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Survive MechMania
 - Start DigiKey prep
 
-#Next Meeting:
+# Next Meeting:
 - MechMania aftermath
 - Reimbursement Process

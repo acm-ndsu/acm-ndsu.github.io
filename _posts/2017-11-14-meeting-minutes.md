@@ -3,7 +3,7 @@
 - MechMania
 - DigiKey  
 
-#What We Went Over:  
+# What We Went Over:  
 
 - Mechmania
     - Checks to double-check  
@@ -41,11 +41,3 @@
         - New Snack Ideas?
     - Travel Forms
         - One form now from the Chair 2 weeks out
-
-#To Accomplish By Next Meeting:  
-- t
-- f
-
-#Next Meeting:
-- f
-- t

@@ -2,7 +2,7 @@
 -   Closing MechMania 2017
 -   Money Situation
 
-#What We Went Over:  
+# What We Went Over:  
 
 - Bank Account - $185.25
     - math from last meeting checks out
@@ -27,5 +27,5 @@
 - MechMania 2017
     - channel in Discord closed (all checks resolved) 
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - More money thinking

@@ -2,7 +2,7 @@
 - MechMania
 - DigiKey
 
-#What We Went Over:  
+# What We Went Over:  
 
 - MechMania
     - Van
@@ -31,11 +31,11 @@
     - Snacks
         - Slim Jims are popular, but may need repricing
 
-#To Accomplish By Next Meeting:  
+# To Accomplish By Next Meeting:  
 - Ensure people can get into the ACM early enough
 - Send emails
 - Determine what to bring for that Friday
 
-#Next Meeting:
+# Next Meeting:
 - MechMania
 - DigiKey

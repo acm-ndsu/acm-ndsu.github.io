@@ -2,7 +2,7 @@
 - DigiKey
 - ICPC
 
-#What We Went Over:  
+# What We Went Over:  
 
 - DigiKey
     - Aftermath
