@@ -1,0 +1,1 @@
+# What We're Going Over:- any updates# What We Went Over:  - No new updates- Discussion on new room    - Planning space for events (LAN parties, etc.)- 2 MICS reimbursements left- Looking at how to cut costs of events- Byte-le Royale- Bank Account - $509.74# To Accomplish By Next Meeting:  - Releasing the funds# Next Meeting:
