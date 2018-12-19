@@ -1,0 +1,25 @@
+- What We Went Over
+  - Shirts
+    - All who ordered have received or been shipped
+    - Remainder to sell for $16 apiece
+    - Bring up at kickoff meeting?
+    - extra of each size received
+  - Chairs
+    - First arrived on Wednesday
+      - almost identical to old ones (no on-arm cushions)
+    - Rest arrived next day
+      - all chairs are assembled
+      - all table spots have proper chairs now
+  - Whiteboards
+    - They arrived
+    - Facilities have been sent forms and information on mounting them
+  - Graphics cards
+    - order has been put in, should be in process
+  - Courses to talk to
+    - CSCI 160 (3), CSCI 161 (3), 313 (3)
+    - Times for talking: 9 AM (2), 10AM (2), 11A M, noon, 1PM, 2PM, 4PM
+  - Benevity and Paypal
+    - being looked into
+  - TV info
+    - Vizio was chosen (Vizio P-Series 65" 4K HDR Smart TV Effective Refresh Rate: 240Hz LED TV P65-F1)
+    - New mount will need to be purchased
