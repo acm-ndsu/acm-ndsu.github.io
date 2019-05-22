@@ -1,0 +1,1 @@
+# What We're Going Over:- Reimbursements- Annual Reports# What We Went Over:  - Reimbursements	- All checks sent out- Annual Reports	- In Progress- Bank Account - $265.57	- 1 check cashed# Next Meeting:- Annual Reports
