@@ -1,7 +1,7 @@
 # What We're Going Over:
 - Financials
 - Mechmania Reimbursement
-- Census
+- ACM National Annual Report
 - Recruitment
 
 # What We Went Over:  
@@ -9,7 +9,7 @@
 - Reimbursement money not deposited 
 	- Need to discuss with student government
 
-- Census needs to be completed
+- Annual report needs to be completed
 
 - Mailing list needs to be fixed
 
@@ -22,9 +22,9 @@
 
 # To Accomplish By Next Meeting:  
 - Contact student government about reimbursements
-- Complete census
+- Complete annual report
 
 # Next Meeting:
-- Census and further updates
+- Annual report and further updates
 - Check Mechmania status
 - Kickoff meeting?
