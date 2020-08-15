@@ -24,7 +24,7 @@
 - Bank Account - $161.30
 
 # To Accomplish By Next Meeting:  
-- Reserve room for Involvement Expo
+- Reserve room for Kickoff Meeting
 - Contact Student Government regarding reimbursements
 - Reboot Hack
 
