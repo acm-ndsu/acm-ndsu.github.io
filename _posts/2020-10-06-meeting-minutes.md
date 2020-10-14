@@ -25,9 +25,6 @@
 - Keys
     - Chris to receive key on Thursday
 
-- Bank Account
-    - Still needs to be transferred
-
 - Digikey
     - Competition to take place next Friday
     - Need to reserve a room for the duration of the competition
