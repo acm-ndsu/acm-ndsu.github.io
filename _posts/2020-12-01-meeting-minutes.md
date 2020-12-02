@@ -10,7 +10,7 @@
 # What We Went Over:
 
 - Bank Account
-    - Only two reimbursements remaining
+    - Two reimbursements remaining, no new withdrawals
 
 - SIGs
     - SIG Study to be held tomorrow
