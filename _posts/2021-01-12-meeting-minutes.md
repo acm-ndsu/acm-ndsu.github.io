@@ -22,7 +22,7 @@
 
 - Class Visits
     - Chris
-        - CSCI 160 at 12:00 on Thursday
+        - CSCI 161 at 12:00 on Thursday
     - Sean
         - CSCI 313 at 11:00 on Friday 
         - CSCI 160 at 2:00 on Friday
@@ -63,5 +63,4 @@
 - Room Bot
 - Spring Kickoff Meeting
 - Involvement Expo
-- Member-at-Large
 - FAST
