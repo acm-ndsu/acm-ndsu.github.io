@@ -37,7 +37,7 @@
 - Room Bot
     - All parts ordered
 
-- Bank Account - $483.90
+- Bank Account - $293.00
 
 # To Accomplish By Next Meeting: 
 - Transfer bank account access 
