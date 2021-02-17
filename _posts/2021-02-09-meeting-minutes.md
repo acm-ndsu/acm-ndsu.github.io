@@ -27,7 +27,7 @@
     - Will mount using velcro
     - Sean will use SQLite to analyze logs for thesis
 
-- Bank Account - $218.00
+- Bank Account - $293.00
 
 # To Accomplish By Next Meeting: 
 - Transfer bank account access 
