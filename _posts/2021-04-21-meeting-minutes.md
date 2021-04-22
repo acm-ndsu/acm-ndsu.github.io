@@ -3,12 +3,16 @@
 - Picnic Carpool
 - Linux on ACM Right
 - Art-tablet for ACM
-- Open ACM in the ACM
+- Open ACM in the Summer
 - Sig Social
 - Debit board
+- Bank Account
 
 
 # What We Went Over:
+
+- Bank Account
+        - 547.71	
 - Linux on ACM Right
 	- Purpose:
 		- problems having to download GUI on windows
@@ -35,6 +39,10 @@
 - Sig Social
 	- Thing up ideas to do for Social
 	- Off campus	
+
+- Open ACM in the Summer
+        - Sean can possibly open ACM room in the summer on Sundays
+        - Can discuss more next meeting
 
 # Next Meeting:
 - Art-tablet for ACM
