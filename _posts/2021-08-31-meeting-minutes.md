@@ -9,7 +9,7 @@
 - Bank Account
 	- $676.02
 - Kick-off meeting
-	- two pizzas (Erick)
+	- get pizzas (Erick)
 	- Soda; rootbeer, diet coke, mt. dew, dr. pepper (Sean) 
 - Involvement Expo
 	- we'll start showing up at 10:00 AM 
