@@ -24,14 +24,8 @@
 - New Member at Large
 	- Walmart discount
 	- Will check on Sam’s Club
-- Bytle
+- Byte-le
 	- Need a start date
-	- Who is interested:
-    		- Board members
-    		- Sean
-        	- Braxton
-    		- Nick
-    		- Gabe
 - End of year stuff to look ahead to
 	- Debit board (Carson)
 	- Restart monthly emails (John)
