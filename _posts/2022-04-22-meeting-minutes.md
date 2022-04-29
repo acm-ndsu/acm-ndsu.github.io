@@ -27,7 +27,7 @@
     - systemd
     - Vue.js
     - APIs(Flask)
-    - No
+    - NoSQL
 - SIGs vs Collabs
     - SIGs are
         - Focused 
