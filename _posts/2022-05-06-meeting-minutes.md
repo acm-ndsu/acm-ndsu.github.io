@@ -1,0 +1,79 @@
+# What We're Going Over:
+- Updates on Fall SIGs
+- Updates on Weekly Meeting Topics
+- Fall Involvement Expo
+- Talk about what are the benefits for being in the ACM
+- Updates on Advertising
+
+# What We Went Over:
+- Bank Account
+    - 884.65
+- No Board Meeting Finals Week
+- Fall Sigs
+    - SIG Funct
+    - SIG GDev
+    - SIG Study
+    - SIG Collab will be Spring only
+    - SIG Compete?
+- Weekly Meeting Topics (need 14-17 to get every week)
+    - GIT
+    - GIT Workflows/Good Practices
+    - Machine Learning
+    - systemd
+    - Vue.js
+    - APIs(Flask)
+    - NoSQL
+    - Latex
+    - AWS
+    - Make a form for it
+    - Clean Code (Book)
+    - Steal topics from Hack Club?
+    - Could we repeat topics in more depth?
+- Debit Board
+    - No more cash in or out
+    - Can still use it to buy snacks until the end of semester
+- Remove Unpaid Membership Forms
+    - Used to do emails through form, now have myNDSU
+    - Just sign up on myNDSU
+- Benifits for paid members
+    - Discord roles and emojis 
+    - Debit board (cap of $10)
+    - $10 a semester
+    - $15 for a year
+    - Not required to be paid member to join sigs
+    - Ask Spencer about travel costs for only members
+    - Compeitions are not limited to members but travel costs are covered if a member
+- Advertising 
+    - Flyers for myNDSU
+    - Remake signage as much is outdated
+    - Create SIG Flyer Templates
+    - Get a flyer on the QBB Bulitin Board
+    - Get a flyer in the Engineering building
+    - Get a flyer in the Union
+    - Get a flyer in Morril
+    - Get a big sign for front of QBB for ACM during kickoff meeting
+- WHat we use profits for
+    - Food for events
+    - Snacks (are net profit)
+    - Repair/Upkeep
+    - Room improvements
+- This is our last meeting before the summer
+    - Have a wonder summer!!!!!!!!!
+
+# End of Year Stuff:
+- Clear debit board
+- Clean room (fridge, freezer, microwave)
+
+# Next Semester:
+- Rebranding SIGs
+- Remake Robbot and add SIG roles (John)
+- Have monthly emails (John)
+- Revamp website (Mitchell)
+- Have a short bio for each board member by first week of summer
+- Differential Spending Survey
+- Check snack spread sheet for price adjustments (Carson and John)
+- National ACM Report for August (Jean and Carson)
+- Welcome Week Slides (Jean and Amanda)
+- Email for Corp Talks over Summer (Jean, Amanda and Mitchell)
+- Hosting events for school for funding and other general funding (Carson)
+- Make a Heroku Account for discord bot for first week of summer (Amanda)
