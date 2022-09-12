@@ -48,6 +48,18 @@ defaults:
             layout: "pages"
     -
         scope:
+            path: "sigs"
+            type: "pages"
+        values:
+            layout: "pages"
+    -
+        scope:
+            path: "weekly-meetings"
+            type: "pages"
+        values:
+            layout: "pages"
+    -
+        scope:
             path: "meeting-minutes"
             type: "pages"
         values:
