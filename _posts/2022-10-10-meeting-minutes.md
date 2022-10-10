@@ -1,0 +1,94 @@
+# What We're Going Over:
+- Where to hang posters
+- Talk about how to start up a SIG (updating and advertising forms)
+- Game Jams? (John could put on)
+- FAST Corp talk (Amanda will contact FAST later today)
+- Shirts 
+- Has carson looked into options?
+- Tables
+- Snack Price repo
+- Where to hang posters?
+- Submit ad to play in MU?
+- Couch
+
+# What We Went Over:
+- Bank Account
+    - 892.24
+- Shirts
+    - Original one is best price
+- What to do with extra table
+    - Maybe cut the legs and make it the coffee table next to the tv
+    - Maybe donate to student government 
+    - Donate to Alumni?
+- Advertising on NdsuTV
+    - Goes for 10 days
+    - Dynamic or static
+    - Any events we want to do
+- Couch Damage
+    - A supporting wood plank is no longer where it should be
+    - Asking Greg about it?
+- Top Coder
+    - Confirming dates with them this week
+- SIG Leader Update
+    - SIG-Functional
+        - Wants a GIT Repo so he doesn't have to post to discord
+        - 4-5 members
+        - Room for 6-8 people in current room
+        - Going well
+        - Thinking about a trvia night
+    - SIG-GDev
+        - 4-5 members
+        - Room is working jsut fine
+        - He tries to push people a little past their limits
+        - Wants people to have skills to be able to make a game by the end of semester
+        - Doesn't want a Game Jam run through SIG-GDev
+- Poster
+    - Have spots and who to talk to
+    - Just need to apprach about putting them up
+- Waiting to buy hardware table stuff until after Digikey
+
+# Board TO DO: 
+- Auto updating snack price board? (Amanda, John, and Jean)
+- NDSUTV Ads (Jean and Grace)
+- Get more info for hanging posters for Dolve Hall and Ag Hill (Will do after hardware table)
+- Compile list CSCI Brain Games (Jean and John)
+- Talk to SIG Leaders (Mitchell) (Bi-Weekly)
+- Get prices for shirts (Carson)
+- Check Google Calendar (John)
+- Plan what games to bring to party (Amanda)
+- Look into different calendar options (John)
+
+# Tabled for Next Meeting:
+- What to do with extra table
+- Snack Pricing
+- Email faculty about shirt and interviews result (Amanda)
+- SIG Startup (November)
+- SIG Trivia Night
+- We have five NDSU ACM shirts
+
+# Current Weekly Schedule Ideas
+- Weekly Meeting Topics 
+    - Sept 12th: Python Intro (Jean) (Hands-on)
+    - Sept 19th: Git Intro (Sean) (Hands-on)
+    - Sept 26th: Git Best Practices (Sean) (Hands-on)
+    - Oct 3rd: Intro to IDEs (Jean and Amanda) (Hands-off/Hands-on)
+    - Oct 10th: Javascript (Amanda)
+    - Oct 17th: systemd (John) (Hands-off) 
+    - Oct 24th: SQL (Sean) (Hands-on)
+    - Oct 31st: No meeting, Halloween Party
+    - Nov 7th:  ColdFusion (Amanda) (Hands-off)
+    - Nov 14th: Machine Learning (Mitchell) 
+    - Nov 21st: Machine Learning Pt. 2 (Mitchell)
+    - Nov 28th: C# (Jean) (Hands-on)
+- Other topics for Spring
+    - Machine Learning
+    - Vue.js
+    - APIs(Flask)
+    - NoSQL
+    - Latex
+    - AWS
+    - C#
+    - Make a form for it
+    - Clean Code (Book)
+    - Steal topics from Hack Club?
+    - Could we repeat topics in more depth?
