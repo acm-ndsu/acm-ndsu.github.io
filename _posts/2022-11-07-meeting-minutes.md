@@ -26,11 +26,12 @@
 - Topcoder
     - Nov 8th at 6:00pm
 - SIG GDev
-    - John will take over from Alan
+    - John will take over from Alan for GDev
     - Will resubmit SIG creation form
+    - Final talk between Alan and John for switch
 - SIG Collab
     - Will start after Byte-le
-- Create chat for former board
+- Create chat for former board 
 
 # Board TO DO: 
 - Create weekly meeting response form (John)
@@ -41,9 +42,12 @@
 - Inventory Check (Amanda/Jean)
 - Print out shirt flyers (Jean)
 - Order Shirts (Carson)
+- Look into email from Guy/Denton (Mitchell)
 
 # Tabled for Next Meeting:
 - Talk about SIG creation advertising
+- SIG Collab First Meeting Planning (Closer to next semester)
+- Plan November Game Night
 
 # Tabled for Next Semester:
 - Game Jam
