@@ -17,8 +17,8 @@
     - Tentative Projects
         - Byte-Le Engine Rewrite in Python (Jean)
         - Electron Finance App (John)
-        - Revamp ACM Website
-        - Add functionality to discord bot so we don't need multiple
+        - Revamp ACM Website (Amanda)
+        - Add functionality to discord bot so we don't need multiple bots
         - Alumni Database
 - Spring Student Involvement Expo
     - Wednesday, Jan 18 from 11am to 3pm
