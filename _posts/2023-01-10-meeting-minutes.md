@@ -71,6 +71,7 @@
 
 # Tabled for Next Meeting:
 - Noise in the room
+- Need forms for SIG GDev and SIG Functional
 
 # Current Weekly Schedule Ideas
 - Weekly Meeting Topics - Mondays at 6pm - ACM Room
