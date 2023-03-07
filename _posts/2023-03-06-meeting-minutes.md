@@ -1,0 +1,124 @@
+# What We're Going Over:
+- Pick date for last Game Night this election cycle
+- Continue work on clean-up for next term
+
+# What We Went Over:
+- Bank Account
+	- $1,386.98
+- Elections
+	- March 27th, 5:30pm
+- Game Night
+    - On March 24th
+    - 6pm to 11pm
+    - Will take picture of all Board Members
+- Clarify Voting Criteria
+    - As per Article 3 about voting
+        - Voting privileges shall be extended to all student Chapter and Affiliate members as per article IV.
+    - As per Article 4 about eligibility 
+        - Local membership shall be open to all national members who are associated with NDSU
+        - Local membership shall also be open to all students, faculty, and staff of NDSU "who are either directly or indirectly associated with computer hardware and software upon the payment of dues"
+    - So you have to be a paid member to vote
+    - As per Article 5, elected officials must meet all three of:
+        - students who are members of the National ACM
+        - members of the local Chapter
+        - and meet NDSU Congress of Student Organization’s requirements.
+    - Nothing in the constitution says Election Committee or Board Members can't vote so we will allow them to
+    - Voting will be done in person and in Discord voice chat
+    - Link will be sent in Discord
+    - Voting will be anonymous but number of people will be head counted against submissions in person and in vc
+- Continue work on clean-up for next term
+    - Membership Form clean-up
+        - Some sheets have no back side or no front side (need to sort and staple)
+        - Only about half the people checked the term of service
+        - Next board item (and starting now) is being more diligent about filling the entire forms
+    - Have accurate names on Debit Board
+        - Use first name and first letter of last name
+    - Make sure everyone on ballot is actually running
+        - Mitchell confirmed it
+    - Google-Drive Organization
+    - Reflection: What was done well? What could be done better?
+        - Weekly meetings should be more interactive (more activities than lectures)
+        - Teaching languages at a weekly meeting has had mixed results
+            - Make sure to have a git meeting
+            - Decide topics over summer for fall
+        - Reaching out more to companies and lots of new contacts
+        - Make sure to know what evens faculty wants us to attend (even if not official)
+        - SIG-Collab has been going well
+            - Shorter projects
+            - Smaller scopes
+            - Adjustments instead of lots of fully new products
+            - Both using Trello
+        - Extended board was a good idea but under-utilized 
+            - Maybe lump librarian into secretary 
+        - Do better upkeep of records
+        - Do better communication with department
+        - Send lots of emails if they don't communicate
+        - Don't be afraid to try new things and reverse them
+        - Keep doing Class Room Visits
+            - Professors have been doing a lot better with communicating
+            - Try to have two people go to each
+        - Plan for expos sooner
+            - Bring drinks
+            - Keep trying to think of a hands on booth activity
+        - Make sure to limit the speakers during Kickoff
+            - People want to network, don't spend entire time presenting
+        - Use announcement bot for late risers
+            - But don't send out too many in one week, try to group them
+            - Posters are super cool and working well
+            - Check how many posters we can put up
+        - Interesting idea: use roles to ping for board meetings and game night
+        - We will have defined role responsibilities on the drive
+        - Board talks outside of official weekly board meeting should be put in the discord chat
+        - The Chair is the one who communicates with faculty
+        - Mics Competition is back up, next board should look into it
+        - Once a Board decision is made, it is final
+        - Having a board schedule for meetings has been good
+        - Secretary should make sure online calendar is up to date
+        - Secretary keep doing monthly emails
+        - Above $1,000, we try to upgrade and spend money
+            - Board should define how feedback will be done with the member body
+            - Doesn't mean we can't under $1,000 but we try not to have a nest egg above it
+- Google Drive organization
+	- README
+	- Board Resources 
+	- Extended Board
+	- Advertising
+	- SIGS
+	- ACM Events
+	- Byte-le
+	- Finances
+	- ACM Member Documentation
+	- Archive
+
+# Board TO DO: 
+- Monthly email (John)
+- Make announcement of voter eligibility (John)
+- Make announcement about Debit Board (John)
+- Run server tests and email (John)
+- Google Drive Organization (John and Amanda)
+- Update member list (Carson)
+- Go through cabinet and organize (Carson)
+- Deposit Money (Carson)
+- Get some ice cream (Jean and Carson)
+- Organize and check books (Jean)
+- Ask Denton for list of contacts for next Chair (Amanda)
+
+# Tabled for Next Board:
+- Should librarian duties be given to secretary 
+
+# Current Weekly Schedule Ideas
+- Weekly Meeting Topics - Mondays at 6pm - ACM Room
+    - Jan 23: Byte-Le Prep with Python
+    - Jan 30: SIG-Collab Kickoff (Led by Amanda)
+    - Feb 6: Game Jam Prep (John)
+    - Feb 13: Hardware Alumni stuff (need to decide on which topic)
+    - Feb 20: Holiday
+    - Feb 27: Webscraping and Webcrawling with Python
+    - Mar 6: Machine Learning and Data Analysis with Python
+    - Mar 13: Holiday
+    - Mar 20: Runscape Macros in Java (John)
+    - Mar 27: Code Golf Tournament (Amanda)
+    - Apr 10: Holiday
+    - Apr 17: Selenium to get music tickets (Carson)
+    - Apr 24: Vue Website Jam (Amanda)
+    - May 1: Dead week, good luck!
