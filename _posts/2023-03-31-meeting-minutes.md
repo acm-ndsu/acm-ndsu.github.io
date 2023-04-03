@@ -21,7 +21,7 @@
     - Money Deposited (Carson)
     - Board members got national memberships
 - ACM Picnic Details
-    - On Friday, April 29th at 1pm, located at Island Park (302 7th St. S.)
+    - On Saturday, April 29th at 1pm, located at Island Park (302 7th St. S.)
     - Food: Hamburgers and hotdogs (precooked), buns, donuts, brots, condiments, chips, soda, silverware, napkins, paper plates, red solo cups will be provided
     - Activities: Frisbees, badminton set, cornhole set (not confirmed), etc. (ideas from members)
     - Take more pictures and videos of the picnic (Ian and Gunnar)
