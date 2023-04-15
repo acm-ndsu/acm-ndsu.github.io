@@ -1,0 +1,76 @@
+# What We're Going Over:
+- ACM Game Night With Picnic
+- Snack Run Details
+- Jean's Appeal
+- ACM Picnic Details
+- Services and Hardware List
+- Digital Debit Board
+- Discord Server Ideas
+- New Time for Board Meetings
+- Byte-le Royale Details
+- Minister of Propaganda Details
+
+# What We Went Over:
+- Bank Account
+    - $ 1268.65
+- ACM Game Night
+    - The ACM Game Night for this month will be on the same day as the ACM Picnic on Saturday, April 29th, after the picnic at 6pm
+    - As usual, snacks and games will be provided
+- Snack Run Details
+    - A snack run at Sam's Club was done on Thursday 13th, with the room now stocked for the rest of the semester
+    - Gabe is offering to allow the board to use his Cosco Membership to get snacks instead of Gunnar's Sam's Club membership
+- Jean's Appeal
+    - The appeal was discussed again and will continue to be upheld
+    - Time for a Q&A (originally mentioned as a public apology) on the situation is still currently undecided
+- ACM Picnic Details
+    - Food for the picnic and game night will be purchased the day of. Many members have offered to lend some outside activities for the picnic
+- Services and Hardware List
+    - Some services and hardware have been listed on the discord
+    - Ian and some others will meet with Denton at some time to make this list in the near future
+    - A decision on who will be the Technical Contact for the ACM will also need to be made in the near future
+- Digital Debit Board
+    - Talk on how to implement a digital debit board, with some options including Venmo and Square
+    - This topic will be looked into in the future
+- Discord Server Ideas
+    - New pets-of-the-acm channel is currently doing very well
+    - suggestions channel will be updated for feedback on certain ideas
+    - Server default settings of notifications will remain as all messages
+- New Time for Board Meetings
+    - New official time for Board Meetings will be on Thursdays from 5pm-6pm in the ACM room
+- Byte-le Royale Details
+    - Byte-le Royale meetings will be held in conference rooms instead of the ACM room so people will not be required to leave the room for the meeting
+    - The meetings will be held on Thursdays at 6pm after the board meeting
+- Minister of Propaganda Details
+    - Grace will continue to serve as the Minister of Propaganda for the ACM next year
+
+# Board TO DO: 
+- Get food for ACM picnic and Game Night (Carson) 
+- Get materials for activities for picnic (All of the Board, as well as other members)
+- List for services and hardware in the ACM for meeting with Denton (Ian, with Reed, Roman, and Gabe)
+- Some problems for next year: 
+    - Heat problems 
+    - Google form usage (QR codes for forms) 
+    - Member meetings (need to plan at least six for an academic school year)
+    - National ACM resources to look into
+        - National SIG's
+        - National ACM corp-talks 
+    - Digital debit board 
+    - Digital forms for library changes
+    - Update Constitution for not allowing buying votes during elections 
+
+# Current Weekly Schedule Ideas
+- Weekly Meeting Topics - Mondays at 6pm - ACM Room
+    - Jan 23: Byte-Le Prep with Python
+    - Jan 30: SIG-Collab Kickoff (Led by Amanda)
+    - Feb 06: Game Jam Prep (John)
+    - Feb 13: Hardware Alumni Meeting
+    - Feb 20: Holiday
+    - Feb 27: Webscraping and Webcrawling with Python
+    - Mar 06: Machine Learning and Data Analysis with Python
+    - Mar 13: Holiday
+    - Mar 20: Runescape Macros in Java (John)
+    - Apr 03: Code Golf Tournament (Brandon)
+    - Apr 10: Holiday
+    - Apr 17: Selenium to get music tickets (Carson)
+    - Apr 24: Vue Website Jam (Amanda)
+    - May 01: Dead week, good luck!
