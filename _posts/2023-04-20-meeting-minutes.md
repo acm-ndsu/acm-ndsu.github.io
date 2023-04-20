@@ -1,0 +1,85 @@
+# What We're Going Over:
+- ACM Fiscal Report
+- ACM Logo Problems
+- SIG Discussion
+- ACM Awards Ideas
+- Hardware and Services List
+- FBS Cooperation
+- Air Conditioning Fix
+- Byte-le Sponsorship/Fundraising Discussion
+- QR Codes for Suggestions
+- ACM Merch
+- 
+
+# What We Went Over:
+- Bank Account
+    - $ 1,268.65
+- ACM Fiscal Report
+    - A Fiscal Report for the ACM has to be sent to the National ACM on August 31st. Carson will be in charge of this
+- ACM Logo Problems
+    - We have been getting emails about not using the national ACM logo and instead using the chapter logo. We will look further into this
+- SIG Discussion
+    - We will begin reaching out to people to plan for SIG's next semester. SIG sign up forms will be available in the ACM room
+    - SIG-Com. Sci. Ideas
+        - Currently, weekly meetings are not engaging and not as successful
+        - SIG-Com. Sci would replace weekly meetings, and would be a SIG for members to teach a different topic related to Com. Sci. weekly based on what interests them, with members rotating through teaching and learning. This SIG could also make times for these meetings more flexible, and would have a leader (Vice-Chair) to organize who gets to teach on which weeks
+        - This allows the current weekly meeting system to be better organized and hopefully help attendance for these meetings
+        - Name for SIG is still up for debate
+- ACM Awards Ideas
+    - Idea for awards for members contributing to club and being more involved, with an award ceremony happening every semester
+- Hardware and Services List
+    - On April, 21st, at 3pm, Ian will be meeting with Denton and Guy Hokanson along with Gabe, Roman, and Reed to discuss creating a lists of hardware and services that the ACM uses
+- FBS Cooperation
+    - FBS, a local software company in Fargo, is looking to get involved with the NDSU ACM
+    - We discussed ideas for looking into sponsorships with FBS and Byte-le, as well as internship and co-op opportunities and corp-talks, as well as capstone projects with the department and career fair booths
+    - We will look further into this company and contact them in the near future
+- Air Conditioning Fix
+    - Air Conditioning was fixed in the ACM room!
+- Byte-le Sponsorship/Fundraising Discussion
+    - Carson will discuss with company Be the Match for a potential sponsorship for Byte-le
+    - Further discussion on fundraising and sponserships from companies for the ACM and Byte-le through a fundraising committee ran by Carson
+    - Reaching out to other schools to further advertise Byte-le including TV advertisement
+- QR Codes for Suggestions
+    - Some QR codes for the suggestion forms will be placed in the ACM room
+- ACM Merch
+    - Idea discussed on ACM hoodies, jackets, etc.
+    - Idea discussed on creating a ACM online merch store as a future project
+
+# Board TO DO: 
+- Get food for ACM picnic and Game Night (Carson) 
+- Get materials for activities for picnic (All of the Board, as well as other members)
+- List for services and hardware in the ACM for meeting with Denton (Ian, with Reed, Roman, and Gabe)
+- Next Meeting: Discuss looking for 1-2 more members for Byte-le Development Project 
+- Some problems for next year: 
+    - Google form usage (QR codes for forms) 
+    - Member meetings (need to plan at least six for an academic school year)
+    - National ACM resources to look into
+        - National SIG's
+        - National ACM corp-talks 
+    - Digital debit board 
+    - Digital forms for library changes
+    - Update Constitution for not allowing buying votes during elections 
+    - ACM Merch Store
+    - Byte-le Advertising
+    - SIG-Com.Sci.
+- File ACM Fiscal Report (Carson)
+- Fundraising Committee (Carson)
+- ACM Merch Store (Carson)
+- Contact FBS (Ian)
+
+# Current Weekly Schedule Ideas
+- Weekly Meeting Topics - Mondays at 6pm - ACM Room
+    - Jan 23: Byte-Le Prep with Python
+    - Jan 30: SIG-Collab Kickoff (Led by Amanda)
+    - Feb 06: Game Jam Prep (John)
+    - Feb 13: Hardware Alumni Meeting
+    - Feb 20: Holiday
+    - Feb 27: Webscraping and Webcrawling with Python
+    - Mar 06: Machine Learning and Data Analysis with Python
+    - Mar 13: Holiday
+    - Mar 20: Runescape Macros in Java (John)
+    - Apr 03: Code Golf Tournament (Brandon)
+    - Apr 10: Holiday
+    - Apr 17: Selenium to get music tickets (Carson)
+    - Apr 24: Vue Website Jam (Amanda)
+    - May 01: Dead week, good luck!
