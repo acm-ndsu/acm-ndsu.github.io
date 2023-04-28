@@ -1,0 +1,80 @@
+# What We're Going Over:
+- List of Services and Hardware
+- Byte-le Development Team
+- Digital Debit Board Ideas
+- Digital Library Ideas
+- SIG-Com.Sci. Ideas
+- ACM Merch Store Ideas
+- Byte-le Advertising Ideas
+- Fundraising Committee Ideas
+- ACM Hours During Finals Week
+- Github & Intellij in CSCI Classes
+- SIG-Collab Ideas 
+- Interactions with CSO
+
+# What We Went Over:
+- Bank Account
+    - $ 1,268.65
+- List of Services and Hardware
+    - Currently no ACM servers, as firewalls will need to be configured again by end of semester (Gabe, Ian, and Roman)
+    - ACM will be in compliance with new NDSU server rules (after ACM right computer is fixed and firewalls are fixed)
+    - Current plans with ACM Right computer is that it will be wiped. If you have any data on the computer you wish to save, contact the board
+- Byte-le Development Team
+    - Currently, the board will wait on adding new members to the Byte-le Development Team
+- Digital Debit Board Ideas
+    - We have a Square Reader to use in the ACM room, and we will look into the idea of allowing cards to add money to the debit board next semester
+- Digital Library Ideas
+    - Current Ideas for Digital Library include: library committee (led by Julia/Caesar), database project, monitor and keyboard to check-in/out, etc.
+- SIG-Com.Sci. Ideas
+    - Different names should be explored for this idea: new name currently: SIG-Workshop
+    - Idea of digital forms for signing up to hold a meeting in SIG-Workshop
+    - Will need to find times during fall semester
+- ACM Merch Store Ideas
+    - Idea of shirts, jackets, etc.
+    - Will consider going with same company as previous ACM shirt or printer Bison Robotics uses
+    - Due to logo changes, we will not be able to use the traditional diamond ACM logo unless it specifies it is an ACM chapter
+- Byte-le Advertising Ideas
+    - Idea of talking to Mechmania to see if they would like to participate in Byte-le
+    - Focus on advertisement mainly in fall
+- Fundraising Committee Ideas
+    - Mainly focus on corp-talks and on-campus interviews to build relationships with local companies
+    - Idea to rename committee to Outreach Committee to reflect new goal of committee
+- ACM Hours During Finals Week
+    - No official ACM room hours during finals week, good luck, have fun!
+- Github & Intellij in CSCI Classes
+    - There has been talk in the department of teaching Github and IntelliJ, but they may not have the time. 
+    - Idea of holding a workshop on learning Github and IntelliJ and talking to department to inform students of this workshop to help begin adding them to the curriculum
+    - Idea of also talking to department to get Github desktop onto lab computers, as well as having students make school accounts on Github (Github Classroom is also an option)
+    - Overall, we believe that we should push Github into the curriculum to better help prepare students in the department
+- SIG-Collab Ideas 
+    - More ideas and topic will need to be explored for projects
+    - New idea: ACM Member Database
+    - New idea: Library Database Revamp
+- Interactions with CSO
+    - Current ACM CSO Standing: 4/5
+    - At less than 3 points, it is possible that we can lose the ACM Club room
+    - Further communication with CSO is in debate
+
+# Board TO DO: 
+- Get food for ACM picnic and Game Night (Carson) 
+- Get materials for activities for picnic (All of the Board, as well as other members)
+- Some problems for next year: 
+    - Member meetings (need to plan at least six for an academic school year)
+    - National ACM resources to look into
+        - National SIG's
+        - National ACM corp-talks 
+    - Digital debit board (Carson)
+    - Digital forms for library changes
+    - Update Constitution for not allowing buying votes during elections 
+    - ACM Merch Store (Carson)
+    - Byte-le Advertising
+    - SIG-Workshop
+    - SIG-Collab Projects
+    - Workshop on Github and IntelliJ (All of the Board)
+- File ACM Fiscal Report (Carson)
+- Outreach Committee (Carson)
+- Next Meeting: Further Discussion on Github / IntelliJ in department
+- Future Meeting: Interactions with CSO
+
+# Current Weekly Schedule Ideas
+- No more weekly meetings for the year! Good luck on finals!
