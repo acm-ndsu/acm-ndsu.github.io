@@ -1,0 +1,83 @@
+# What We're Going Over:
+- ACM Merch
+- Colleges Participating in Byte-le
+- November Game Night
+- Older ACM Shirts
+- CSO Budget Discussions
+
+# What We Went Over:
+- Bank Account
+    - $1010.49
+- ACM Merch
+    - T-shirts
+        - Can do NDSU's Design and Sign for t-shirts
+        - Looking at about $10 for one side, $17 for both per shirt
+        - Looking at selling around $20
+    - Sweatshirts
+        - Would not be able to do NDSU's Design and Sign for sweatshirts
+        - $16.79 Crew necks (cheap)
+        - $23.16 Crew necks (expensive)
+        - Hoodies would be around the same price
+        - Looking at selling around $35
+    - Will look into jackets and designs
+- College's Participating in Byte-le
+    - Concordia and MSUM will be participating in Byte-le for this year!
+    - Will talk to them to see if they wish to compete remotely or in-person
+- November Game Night
+    - This month's game night will be in the ACM Room, November 17th starting at 6:30pm!
+- Older ACM Shirts
+    - We found some older ACM shirts (2 small, 2 medium)
+    - We will be selling them for $10 each
+- CSO Budget Discussion
+    - Discussed travel for competitions
+        - Will need to budget for Digikey
+        - Debating with wanting to travel to Mechamania
+            - Would do a BAR for funding this trip from the CSO if wanted for next year
+    - Current Budget:
+        - Travel to Digikey: ~$300
+        - Room Upkeep: ~$500
+        - Current Running Total: ~$800
+    - Will continue to look into the budget as the semester progresses
+
+# Board TO DO:  
+- Update Constitution (Ian, Brandon)
+- Look into professor talk spotlight (career talk)
+    - Dr. Denton (DONE)
+    - Lan Hu (DONE)
+    - Dr. Kotala (DONE)
+    - David Froslie (DONE)
+    - (Nov. 30th) Planning dates
+- Start designing and seeing interest in ACM merch
+- Fundraising for Byte-le Royale
+    - (Nov. 16) Reach out to two more contacts (Carson)
+    - (Nov. 30) Notification for fundraising for Byte-le to alumni 
+    - Companies to talk to for funding for Byte-le:
+        - Microsoft
+        - Doosan 
+        - Bobcat
+        - Bushel
+        - FBS
+        - Scheels
+        - NAU Country
+        - Blue Cross Blue Shield of ND
+        - RDO
+        - Noridian
+        - Digikey
+        - Eide Bailly
+- (Nov. 30th) Continue to talk with UND for Byte-le
+- Contact Bemidji for Byte-le
+- Continue to look into special game nights (Ceasar, Gunnar)
+- (Nov. 30) Plan on Caesar's Mother to hold a career presentation (career talk)
+- (Spring) SIG-Collab Projects (current ideas)
+    - ACM Branding Style Page
+    - Database for Library
+    - Bison Robotics Website
+- (Spring) Github Workshop
+    - (Nov. 16) Contact Dr. Kotala 
+- (Spring) Contact Tony from Nexus Innovations for Corp-talk
+- (~Spring) Set Up TopCoder Projects
+
+# Upcoming Events
+- (Outside Event) Elevate Conference, November 16th, 8am - 5pm at The Four & Four, Fargo
+- November Game Night - November 17th, starting at 6pm, ACM
+- December Game Night - December 1st, starting at 6pm, ACM
