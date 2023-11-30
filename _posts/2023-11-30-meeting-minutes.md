@@ -1,0 +1,71 @@
+# What We're Going Over:
+- Update Constitution Status
+- CSO Budget
+- Professor Talk Spotlight Times
+- Spring Kickoff
+- Byte-le Fundraising
+- Spring SIGs
+- Suggestions
+
+# What We Went Over:
+- Bank Account
+    - $1010.05
+- Update Constitution Status
+    - Looking at sending current changes after vote to myNDSU
+    - Can hold vote during first game night of Spring semester, sending you proposed changes to members through email and announcements
+    - National ACM has been having issues with taking our revised constitution
+- CSO Budget
+    - Currently working on submitting the budget soon to CSO before January 12th
+- Professor Talk Spotlight Times
+    - Will be looking at scheduling times after Byte-le Event in January
+- Spring Kickoff
+    - Will begin planning for Spring Kickoff at around Friday, January 19th
+- Byte-le Fundraising
+    - Will be sending a Byte-le fundraising message to the alumni very soon
+    - Continuing to look at corp sponsors for Byte-le
+- Spring SIGs
+    - Current Spring SIGs
+        - SIG-Functional
+        - SIG-AppDev
+        - SIG-Modding
+        - SIG-GameDev
+        - SIG-Compete (Currently finding leader)
+    - SIGs begin after Spring Kickoff, about a week after
+- Suggestions
+    - DJ Roomba (Declined)
+
+# Board TO DO:  
+- Update Constitution (Ian, Brandon)
+- (Jan. 10) Submitting CSO budget due date
+- Look into professor talk spotlight (career talk)
+    - (1st week of Spring) Planning dates for after Byte-le
+- Start designing and seeing interest in ACM merch
+- Fundraising for Byte-le Royale
+    - (Nov. 30) Notification for fundraising for Byte-le to alumni 
+    - Companies to talk to for funding for Byte-le:
+        - Microsoft
+        - Doosan 
+        - Bobcat
+        - Bushel
+        - FBS
+        - Scheels
+        - NAU Country
+        - Blue Cross Blue Shield of ND
+        - RDO
+        - Noridian
+        - Digikey
+        - Eide Bailly
+- (Nov. 30th) Continue to talk with UND for Byte-le
+- Contact Bemidji for Byte-le
+- Continue to look into special game nights (Ceasar, Gunnar)
+- (Spring) SIG-Collab Projects (current ideas)
+    - ACM Branding Style Page
+    - Database for Library
+    - Bison Robotics Website
+- (Spring) Github Workshop
+- (Spring) Contact Tony from Nexus Innovations for Corp-talk
+
+# Upcoming Events
+- December Game Night - December 1st, starting at 6pm, ACM
+- Spring Kickoff - January 19th, starting at 5pm, QBB104
+- Byte-le Programming Competition - January 27th, starting at around 10am
