@@ -48,7 +48,7 @@
 
 # Upcoming Events
 
-- Spring Picnic - Starting at 1pm
+- Spring Picnic - April 20th starting at 1pm
   - If weather permits - Island Park 302 7th Street South
   - If weather is bad - ACM Room and QBB 104
 - April Game Night - April 26th starting at 1pm
